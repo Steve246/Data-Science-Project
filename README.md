@@ -12,9 +12,9 @@
 
 ![](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Plot%20Line%20Trend%20of%20Genre.jpeg)
 
-*  films that are under 60 minutes fall into genres such as "Children", "Stand-Up", and "Documentaries". This is a logical result, as these types of films are probably often shorter than 90 minute Hollywood blockbuster.
+*  Films that are under 60 minutes fall into genres such as "Children", "Stand-Up", and "Documentaries". This is a logical result, as these types of films are probably often shorter than 90 minute Hollywood blockbuster.
 * Red --> Children
 * Blue --> Documentary
 * Green --> Stand Up
-*
+
  ![](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Image%20of%20Netflix.jpeg)
