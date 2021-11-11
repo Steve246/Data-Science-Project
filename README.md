@@ -18,3 +18,18 @@
 * Green --> Stand Up
 
  ![](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Image%20of%20Netflix.jpeg)
+
+
+# [Project 2: Investigating Alcohol Drinks in Russia]()
+
+* Analyze the distribution of alcohol beverages in Russia Region
+* Analyze the distribution of sales by alcohol types
+* Select one Region, for analyze the capita sales of all alcohol drinks. I choose Zabaykalsky Krai
+
+# [Analysis Result]
+* Beer and Vodka is both the highest distribution sales of beverages in Russia by year per capita
+
+![image](https://user-images.githubusercontent.com/30414272/141249355-9da09096-b6d7-481b-b8ec-671b2a4bcbde.png)
+
+![image](https://user-images.githubusercontent.com/30414272/141249416-6618f329-f24e-43a0-9133-fd3390ad3553.png)
+
