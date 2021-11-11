@@ -20,7 +20,7 @@
  ![](Investigating%20Netflix%20Movies%20and%20Guest%20Stars%20in%20The%20Office/Image%20of%20Netflix.jpeg)
 
 
-# [Project 2: Investigating Alcohol Drinks in Russia]()
+# [Project 2: Investigating Alcohol Drinks in Russia](https://github.com/Steve246/Data-Science-Project/blob/main/Alcohol%20Drink%20in%20Russia/Alcohol%20Drink%20in%20Russia.ipynb)
 
 * Analyze the distribution of alcohol beverages in Russia Region
 * Analyze the distribution of sales by alcohol types
